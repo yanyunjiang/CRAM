@@ -1,4 +1,3 @@
-# CRAM
 # WSSS-CRAM: Precise Segmentation of Histopathological Images via Class Region Activation Mapping
 
 The inspiration for this code comes from Tong Wu's article.
